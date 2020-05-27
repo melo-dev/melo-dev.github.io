@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"Alrt.Mobile",
+         "package_name":"com.alrt.autocode.app",
+         "sha256_cert_fingerprints":[
+			"4D:B5:0E:80:CD:68:09:DD:E4:7D:74:75:C6:24:65:87:80:C7:E5:8D:12:13:5F:D8:53:1E:09:B0:A5:E7:89:C1"
+         ]
+      }
+   }
+]
